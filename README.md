@@ -1,2 +1,3 @@
 # ClockifyAutoTrackerData
-Clockify.me - Auto Tracker Data Tools - Sync und Export
+Clockify.me - Auto Tracker Data Tools - SQLLight & CSV Sync und Export
+I did not try the google sheets version.
