@@ -1,5 +1,5 @@
 # Clickup Auto Tracker Sync. for an endless tracking
-# Path: C:\Users\Axel_desktop\AppData\Local\Clockify\ClockifyDB_ACL.db
+# CHANGE!!! Path in the script: C:\Users\Axel_desktop\AppData\Local\Clockify\ClockifyDB_ACL.db
 # Open with an SQLLight viewer
 
 [CmdletBinding()]
